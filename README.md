@@ -25,5 +25,9 @@
   <li>Click the below link for the UML diagram</li>
   <li>![image](https://github.com/JD-janydaniel/Day06/assets/102308243/8fd811a4-3bf9-47c0-8c4c-fa50e7bf3c03)</li>
 </ul>
+<h3>Class-Person</h3>
+<h4>I have created a person class by using class, constructor method</h4>
+<h3>Uber price-Class</h3>
+<h4>I have creared a uber price class by usin class,constructor method</h4>
 
 
