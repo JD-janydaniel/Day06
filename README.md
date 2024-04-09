@@ -19,5 +19,11 @@
   <li>Write a method getPG, which takes an array of base type Movie as its argument, and returns a new array of only those movies in the input array with a rating of "PG". You may assume the input array is full of Movie instances. The returned array need not be full.</li>
   <li>Write a piece of code that creates an instance of the class Movie with the title “Casino Royale”, the studio “Eon Productions”, and the rating “PG­13”</li>
 </ol>
-![image](https://github.com/JD-janydaniel/Day06/assets/102308243/8fd811a4-3bf9-47c0-8c4c-fa50e7bf3c03)
+<h3>Circle - Class</h3>
+<h4>Convert the UML diagram to Typescript class. - use number for double</h4>
+<ul>
+  <li>Click the below link for the UML diagram</li>
+  <li>![image](https://github.com/JD-janydaniel/Day06/assets/102308243/8fd811a4-3bf9-47c0-8c4c-fa50e7bf3c03)</li>
+</ul>
+
 
